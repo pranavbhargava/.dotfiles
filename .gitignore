@@ -1,10 +1,9 @@
+.atom/.node-gyp
+.atom/.storage
+.atom/packages
+.atom/storage
+.atom/themes
+
+sublime2/User/Package\ Control.sublime-settings
+sublime2/User/Package Control.last-run
 git/gitconfig.symlink
-jobvite
-sublime3/User/*.cache
-sublime3/User/Package Control.last-run
-sublime3/User/Package Control.user-ca-bundle
-sublime3/User/*.crt
-sublime3/User/Package Control.cache/*
-sublime3/User/Package Control.merged-ca-bundle
-Package Control/
-Theme - Soda/
