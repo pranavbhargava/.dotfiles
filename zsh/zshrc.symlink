@@ -4,10 +4,9 @@ export ZSH=$HOME/.dotfiles
 # your project folder that we can `c [tab]` to
 export PROJECTS=~/Code
 
-#Copy over my 
-
-# use .localrc for SUPER SECRET CRAP that you don't
-# want in your public, versioned repo.
+# Stash your environment variables in ~/.localrc. This means they'll stay out
+# of your main dotfiles repository (which may be public, like this one), but
+# you'll have access to them in your scripts.
 if [[ -a ~/.localrc ]]
 then
   source ~/.localrc
@@ -40,5 +39,3 @@ do
 done
 
 unset config_files
-
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
