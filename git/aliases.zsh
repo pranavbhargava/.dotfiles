@@ -23,3 +23,4 @@ alias grm="git status | grep deleted | awk '{\$1=\$2=\"\"; print \$0}' | \
            perl -pe 's/^[ \t]*//' | sed 's/ /\\\\ /g' | xargs git rm"
 alias gsr='git svn rebase'
 alias gsd='git svn dcommit'
+alias gac='git add -A && git commit -m'
