@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"BlameHighlighter",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"HTMLBeautify",
+		"JsFormat",
+		"JSTL syntax",
+		"Markdown Preview",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SVN",
+		"Theme - Soda"
+	]
+}
