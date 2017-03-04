@@ -1,5 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Blackboard (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12.5,
 	"highlight_modified_tabs": true,
@@ -13,7 +15,7 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
